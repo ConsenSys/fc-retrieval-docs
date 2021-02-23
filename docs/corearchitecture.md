@@ -5,7 +5,7 @@
 The diagram below shows the core architecture of the Filecoin Secondary Retrieval Market system. 
 
 ![Filecoin Secondary Retrieval Core Architecture](images/corearchitecture.png)
-Figure 1. Filecoin Secondary Retrieval Core Architecture
+**Figure 1.** Filecoin Secondary Retrieval Core Architecture
 
 If a Retrieval Client knows where some content (a CID within a Piece CID) is stored, then it could choose to contact the Retrieval Provider that can deliver the content directly. The Retrieval Client establishes or re-uses a payment channel with the Retrieval Provider and incrementally pays for and receives content. 
 
