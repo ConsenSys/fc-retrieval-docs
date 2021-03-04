@@ -1,0 +1,37 @@
+LEGAL.txt
+Copyright (c) 2021 ConsenSys Software Inc.
+
+Project: fc-retrieval-docs
+
+This file lists dependencies used by this project, and provides
+attribution to open source software projects.
+---------------------------------------------------------------
+
+Project: https://github.com/ConsenSys/fc-retrieval-common/
+License URL: https://raw.githubusercontent.com/ConsenSys/fc-retrieval-common/master/LICENSE
+License type: Apache License
+
+Project: https://github.com/cbergoon/merkletree/
+License URL: https://raw.githubusercontent.com/cbergoon/merkletree/master/LICENSE
+License type: MIT License
+
+Project: https://github.com/davidlazar/go-crypto/
+License URL: https://raw.githubusercontent.com/davidlazar/go-crypto/master/LICENSE
+License type: BSD-style License
+
+Project: https://github.com/ipsn/go-secp256k1/
+License URL: https://raw.githubusercontent.com/ipsn/go-secp256k1/master/LICENSE
+License type: BSD-style License
+
+Project: https://github.com/rs/zerolog/
+License URL: https://raw.githubusercontent.com/rs/zerolog/master/LICENSE
+License type: MIT License
+
+Project: https://github.com/spf13/viper/
+License URL: https://raw.githubusercontent.com/spf13/viper/master/LICENSE
+License type: MIT License
+
+Project: https://github.com/stretchr/testify/
+License URL: https://raw.githubusercontent.com/stretchr/testify/master/LICENSE
+License type: MIT License
+
