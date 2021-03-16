@@ -1,7 +1,10 @@
 # fc-retrieval-docs
-Documentation for the Filecoin secondary retrieval system
+Documentation for the Filecoin secondary retrieval system.
 
 Please start with the [Overview](docs/overview.md)
+
+## Releases
+Release notes for the Filecoin Retrieval system are available [here](release_notes/README.md).
 
 ## Engineering Plan
 
