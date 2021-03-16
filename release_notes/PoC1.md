@@ -13,7 +13,7 @@ This release includes the initial version of the following components:
 * [Common](https://github.com/ConsenSys/fc-retrieval-common): Common Golang packages used by the other components.
 
 ## Main Functionality
-This release includes functionality to deliver the following work flow:
+This release includes functionality to deliver the following workflow:
 
 1. Initialise Gateway using Gateway Admin.
 2. Initialise Provider using Provider Admin.
@@ -21,6 +21,8 @@ This release includes functionality to deliver the following work flow:
 4. Using Provider Admin to ask the Provider to publish a Piece CID Group Offer. The Gateway will receive the offer and store it.
 5. Start a Retrieval Client and add the Gateway to the Client manager. The Client discovers the Gateway.
 6. Use the Client to retrieve a Piece CID offer from the Gateway that was previously published by the Provider.
+
+The code to execute this workflow is available in this [test](https://github.com/ConsenSys/fc-retrieval-itest/blob/163-poc1-release/internal/integration/poc1usage_test.go).
 
 ## How to Build and Test
 To get the release and test it, ensure you have Docker installed and running, have Golang installed, and have standard Linux tools available, and use the following commands:
